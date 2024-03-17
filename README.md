@@ -1,3 +1,5 @@
+# NAME: RAMKUMAR G
+# REG NO: 212223220084
 # Fitting Poisson  distribution
 # Aim : 
 
